@@ -1,0 +1,76 @@
+🛒 Sales Analysis Dashboard – Project 1
+📊 Overview
+This project presents a comprehensive Sales Analysis Dashboard built using Power BI Desktop. The dataset spans multiple regions and product categories, offering insights into sales, profit, and performance metrics over time.
+
+👤 Author
+Mxolisi Mnisi
+
+
+🧾 Report Summary
+Timeframe Covered: 2012 to 2015
+
+Total Sales: $62.3M
+
+Total Profit: $1.51M
+
+Overall Profit Ratio: 2.4%
+
+🌍 Regions Analyzed
+Africa
+
+Asia Pacific
+
+Europe
+
+Latin America (LATAM)
+
+United States & Canada (USCA)
+
+📦 Product Categories
+Furniture
+
+Office Supplies
+
+Technology
+
+📈 Key Visualizations
+Total Sales by Year and Category
+
+Total Sales by Category
+
+Region-wise Profit and Profit Ratio
+
+Sub-category Level Performance (Sales, Profit, Profit Ratio)
+
+Returned Orders by Market
+
+Top Regional Managers by Sales
+
+Q&A Enabled Analytics (e.g., top cities by sales, states by profit ratio)
+
+📂 Files
+Project 1 Sales Analysis by Mxolisi Mnisi.pdf – Exported Power BI Dashboard Summary
+
+🚀 Features
+Interactive filters by year, month, and region
+
+Visual insights on underperforming regions and profitable sub-categories
+
+Drill-down capabilities for strategic decision-making
+
+🛠 Tools Used
+Power BI Desktop
+
+Excel (data source, not included in repo)
+
+📌 Usage
+This report is useful for:
+
+Identifying trends and profitability across markets
+
+Optimizing sales strategies by region and product type
+
+Enhancing business intelligence reporting skills
+
+📜 License
+This project is shared for educational and portfolio purposes. Please credit the author if you reference this work.
