@@ -1,4 +1,4 @@
-📊 Power BI Project – [Project Title]
+📊 Power BI Projects
 📝 Overview
 This Power BI project explores and visualizes data to uncover actionable insights. The report is designed to help stakeholders make informed decisions by presenting key metrics in an interactive and easy-to-understand format.
 
