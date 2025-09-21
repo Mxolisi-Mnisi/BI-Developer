@@ -1,0 +1,41 @@
+📄 README – Resolving Failed and Pending Transaction Issues
+Overview
+
+This Power BI dashboard highlights key insights into transaction performance and customer growth for a multi-location business in Spain.
+It focuses on identifying, quantifying, and reducing failed or pending transactions to protect revenue and customer satisfaction.
+
+Key Features
+
+Customer Metrics:
+
+Total New Customers: 2,564 (+32% YoY growth)
+
+Expanding customer base across multiple Spanish locations.
+
+Transaction Volume:
+
+Average annual transactions: 8,000
+
+Current total transactions analyzed: 20,000.
+
+Failed Transactions:
+
+Failure rate: 28.24% of total transactions.
+
+Financial impact: €27,919,342 in failed transaction amount.
+
+Goals
+
+Pinpoint transaction failure trends.
+
+Provide actionable insights for improving payment processing and customer retention.
+
+Enable stakeholders to drill down into detailed reports for faster decision-making.
+
+Usage
+
+Load the .pbix file into Power BI Desktop or view via Power BI Service.
+
+Interact with filters to explore transactions by region, time period, or customer type.
+
+Use the “Click to Proceed to Report” button to access deeper analysis.
